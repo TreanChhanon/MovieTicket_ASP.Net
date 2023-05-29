@@ -25,31 +25,31 @@ Username or Gmail
 
 - Home Page
 
-![Screenshot (142)](https://github.com/TreanChhanon/MovieTicket_ASP.Net/assets/123797735/89f08b07-8a4b-4041-af87-9158a8619b56)
+![Screenshot (142)](https://github.com/TreanChhanon/MovieTicket_ASP.Net/assets/123797735/b9221d91-0e32-493a-8e0f-7e89ace8b725)
 
 - Movies
 
-![Screenshot (143)](https://github.com/TreanChhanon/MovieTicket_ASP.Net/assets/123797735/5cf7c813-95db-4098-b944-66be64808376)
+![Screenshot (143)](https://github.com/TreanChhanon/MovieTicket_ASP.Net/assets/123797735/41d87136-0a1c-4875-97d9-60a4be271fd4)
 
 - Cinemas 
 
-![Screenshot (144)](https://github.com/TreanChhanon/MovieTicket_ASP.Net/assets/123797735/33241ae7-7750-45da-9715-08e00d98ef55)
+![Screenshot (144)](https://github.com/TreanChhanon/MovieTicket_ASP.Net/assets/123797735/f4dead8f-5dda-4290-8211-f827fc5fb2ff)
 
 - Admin Dashboard
 
-![Screenshot (145)](https://github.com/TreanChhanon/MovieTicket_ASP.Net/assets/123797735/dd560e0a-5cea-4a56-9849-ba78fd77f977)
+![Screenshot (145)](https://github.com/TreanChhanon/MovieTicket_ASP.Net/assets/123797735/121c5850-389d-4d54-a2d9-28f1b47fd9a2)
 
-![Screenshot (146)](https://github.com/TreanChhanon/MovieTicket_ASP.Net/assets/123797735/e5c10eb7-1edc-4b2e-b5e1-208619021fd1)
+![Screenshot (146)](https://github.com/TreanChhanon/MovieTicket_ASP.Net/assets/123797735/c49a7f08-9968-4058-b484-9697cfddac2f)
 
-![Screenshot (147)](https://github.com/TreanChhanon/MovieTicket_ASP.Net/assets/123797735/47fa4d13-bfcf-43f5-873d-cb75140cf5b4)
+![Screenshot (147)](https://github.com/TreanChhanon/MovieTicket_ASP.Net/assets/123797735/ea77d269-22e8-4789-a7c9-e093d74a0e81)
 
-![Screenshot (148)](https://github.com/TreanChhanon/MovieTicket_ASP.Net/assets/123797735/b54407ff-9347-4cfc-a781-911bf58f1143)
+![Screenshot (148)](https://github.com/TreanChhanon/MovieTicket_ASP.Net/assets/123797735/ac9063b6-baf8-4afb-b225-583b60692fef)
 
-![Screenshot (149)](https://github.com/TreanChhanon/MovieTicket_ASP.Net/assets/123797735/039b37a7-4cd5-4a97-9d75-cf44c97a873a)
+![Screenshot (149)](https://github.com/TreanChhanon/MovieTicket_ASP.Net/assets/123797735/837f9354-7d41-483c-b206-1e5b0d80211b)
 
-![Screenshot (150)](https://github.com/TreanChhanon/MovieTicket_ASP.Net/assets/123797735/551f8b32-3bc7-4a03-a9f6-6a72b05e135b)
+![Screenshot (150)](https://github.com/TreanChhanon/MovieTicket_ASP.Net/assets/123797735/6a494c0f-a7b3-408c-b1f8-9011c9692cf2)
 
-![Screenshot (151)](https://github.com/TreanChhanon/MovieTicket_ASP.Net/assets/123797735/c040af24-231d-45db-8f62-823186f544bb)
+![Screenshot (151)](https://github.com/TreanChhanon/MovieTicket_ASP.Net/assets/123797735/1136abb1-718f-428a-a061-1e40cf027dda)
 
 # Contact Me:
 

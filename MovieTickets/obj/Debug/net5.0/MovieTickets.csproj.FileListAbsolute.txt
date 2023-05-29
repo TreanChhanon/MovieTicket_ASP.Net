@@ -1,0 +1,1015 @@
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\appsettings.Development.json
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\appsettings.json
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\MovieTickets.exe
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\MovieTickets.deps.json
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\MovieTickets.runtimeconfig.json
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\MovieTickets.runtimeconfig.dev.json
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\MovieTickets.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\ref\MovieTickets.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\MovieTickets.pdb
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\MovieTickets.Views.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\MovieTickets.Views.pdb
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Castle.Core.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Humanizer.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\Stripe.net.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\MovieTickets.csproj.AssemblyReference.cache
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\MovieTickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\MovieTickets.AssemblyInfoInputs.cache
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\MovieTickets.AssemblyInfo.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\MovieTickets.csproj.CoreCompileInputs.cache
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\MovieTickets.MvcApplicationPartsAssemblyInfo.cache
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\MovieTickets.RazorAssemblyInfo.cache
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\MovieTickets.RazorAssemblyInfo.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\scopedcss\bundle\MovieTickets.styles.css
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\staticwebassets\MovieTickets.StaticWebAssets.Manifest.cache
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\MovieTickets.TagHelpers.input.cache
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\MovieTickets.TagHelpers.output.cache
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\MovieTickets.RazorCoreGenerate.cache
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Account\SignUp.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Account\SignUpCompleted.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\ActorsDetailsAdmin.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\AdminActors.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\AllActors.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\DetailsUser.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\Index.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\InsertActor.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\UpdateActor.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\AdminCategories.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\CategoriesDetailsAdmin.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\DetailsUser.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\InsertCategoryForm.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\UpdateCategoryForm.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\AdminCinemas.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\AllCinemas.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\CinemaDetailsAdmin.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\CinemaUpdateForm.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\CinemaUserDetails.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\Cinema_Insert_Form.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Home\Admin.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\AdminMovie.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\Create.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\DetailsUser.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\Edit.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\IndexUser.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\MovieDetailsAdmain.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\movieSearch.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Payment\Index.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Payment\succeeded.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\AdminProducers.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\AllProducers.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\DetailsUser.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\InsertProducer.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\ProducersDetailsAdmin.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\UpdateProducer.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_AddCinema.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_Grid.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_List.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_LoginLayout.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_UserLayout.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\MovieTickets.RazorTargetAssemblyInfo.cache
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\MovieTickets.RazorTargetAssemblyInfo.cs
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\MovieTickets.Views.pdb
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\MovieTickets.csproj.CopyComplete
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\MovieTickets.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\ref\MovieTickets.dll
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\MovieTickets.pdb
+D:\MVCProject\Movie_Ticket_Reservation-1\MovieTickets\obj\Debug\net5.0\MovieTickets.genruntimeconfig.cache
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\appsettings.Development.json
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\appsettings.json
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\MovieTickets.exe
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\MovieTickets.deps.json
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\MovieTickets.runtimeconfig.json
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\MovieTickets.runtimeconfig.dev.json
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\MovieTickets.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ref\MovieTickets.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\MovieTickets.pdb
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\MovieTickets.Views.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\MovieTickets.Views.pdb
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Castle.Core.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Humanizer.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Stripe.net.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.csproj.AssemblyReference.cache
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.AssemblyInfoInputs.cache
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.AssemblyInfo.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.csproj.CoreCompileInputs.cache
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.MvcApplicationPartsAssemblyInfo.cache
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.RazorAssemblyInfo.cache
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.RazorAssemblyInfo.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\scopedcss\bundle\MovieTickets.styles.css
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\staticwebassets\MovieTickets.StaticWebAssets.Manifest.cache
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.TagHelpers.input.cache
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.TagHelpers.output.cache
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.RazorCoreGenerate.cache
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Account\SignUp.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Account\SignUpCompleted.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\ActorsDetailsAdmin.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\AdminActors.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\AllActors.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\DetailsUser.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\Index.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\InsertActor.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\UpdateActor.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\AdminCategories.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\CategoriesDetailsAdmin.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\DetailsUser.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\InsertCategoryForm.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\UpdateCategoryForm.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\AdminCinemas.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\AllCinemas.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\CinemaDetailsAdmin.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\CinemaUpdateForm.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\CinemaUserDetails.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\Cinema_Insert_Form.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Home\Admin.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\AdminMovie.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\Create.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\DetailsUser.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\Edit.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\IndexUser.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\MovieDetailsAdmain.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\movieSearch.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Payment\Index.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Payment\succeeded.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\AdminProducers.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\AllProducers.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\DetailsUser.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\InsertProducer.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\ProducersDetailsAdmin.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\UpdateProducer.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_AddCinema.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_Grid.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_List.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_LoginLayout.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_UserLayout.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.RazorTargetAssemblyInfo.cache
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.RazorTargetAssemblyInfo.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.Views.pdb
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.csproj.CopyComplete
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\ref\MovieTickets.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.pdb
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.genruntimeconfig.cache
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\appsettings.Development.json
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\appsettings.json
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\MovieTickets.exe
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\MovieTickets.deps.json
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\MovieTickets.runtimeconfig.json
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\MovieTickets.runtimeconfig.dev.json
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\MovieTickets.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\MovieTickets.pdb
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\MovieTickets.Views.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\MovieTickets.Views.pdb
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Castle.Core.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Humanizer.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Stripe.net.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.csproj.AssemblyReference.cache
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.AssemblyInfoInputs.cache
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.AssemblyInfo.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.csproj.CoreCompileInputs.cache
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.MvcApplicationPartsAssemblyInfo.cache
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.RazorAssemblyInfo.cache
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.RazorAssemblyInfo.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\scopedcss\bundle\MovieTickets.styles.css
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\staticwebassets\MovieTickets.StaticWebAssets.Manifest.cache
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.TagHelpers.input.cache
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.TagHelpers.output.cache
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.RazorCoreGenerate.cache
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Account\SignUp.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Account\SignUpCompleted.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\ActorsDetailsAdmin.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\AdminActors.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\AllActors.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\DetailsUser.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\Index.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\InsertActor.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\UpdateActor.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\AdminCategories.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\CategoriesDetailsAdmin.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\DetailsUser.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\InsertCategoryForm.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\UpdateCategoryForm.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\AdminCinemas.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\AllCinemas.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\CinemaDetailsAdmin.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\CinemaUpdateForm.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\CinemaUserDetails.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\Cinema_Insert_Form.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Home\Admin.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\AdminMovie.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\Create.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\DetailsUser.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\Edit.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\IndexUser.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\MovieDetailsAdmain.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\movieSearch.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Payment\Index.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Payment\succeeded.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\AdminProducers.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\AllProducers.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\DetailsUser.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\InsertProducer.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\ProducersDetailsAdmin.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\UpdateProducer.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_AddCinema.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_Grid.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_List.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_LoginLayout.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_UserLayout.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\UpdateProfile\UpdateAdminForm.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.RazorTargetAssemblyInfo.cache
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.RazorTargetAssemblyInfo.cs
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.Views.pdb
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.csproj.CopyComplete
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\refint\MovieTickets.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.pdb
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.genruntimeconfig.cache
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\ref\MovieTickets.dll
+D:\documents\visual studio\MVC_project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\UpdateProfile\UpdateUserForm.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\appsettings.Development.json
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\appsettings.json
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\MovieTickets.exe
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\MovieTickets.deps.json
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\MovieTickets.runtimeconfig.json
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\MovieTickets.runtimeconfig.dev.json
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\MovieTickets.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ref\MovieTickets.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\MovieTickets.pdb
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\MovieTickets.Views.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\MovieTickets.Views.pdb
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Castle.Core.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Humanizer.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\Stripe.net.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.AssemblyInfoInputs.cache
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.AssemblyInfo.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.csproj.CoreCompileInputs.cache
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.MvcApplicationPartsAssemblyInfo.cache
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.RazorAssemblyInfo.cache
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.RazorAssemblyInfo.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\scopedcss\bundle\MovieTickets.styles.css
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\staticwebassets\MovieTickets.StaticWebAssets.Manifest.cache
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.TagHelpers.input.cache
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.TagHelpers.output.cache
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.RazorCoreGenerate.cache
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Account\SignUp.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Account\SignUpCompleted.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\ActorsDetailsAdmin.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\AdminActors.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\AllActors.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\DetailsUser.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\Index.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\InsertActor.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\UpdateActor.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\AdminCategories.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\CategoriesDetailsAdmin.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\DetailsUser.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\InsertCategoryForm.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\UpdateCategoryForm.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\AdminCinemas.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\AllCinemas.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\CinemaDetailsAdmin.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\CinemaUpdateForm.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\CinemaUserDetails.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\Cinema_Insert_Form.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Home\Admin.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\AdminMovie.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\Create.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\DetailsUser.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\Edit.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\IndexUser.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\MovieDetailsAdmain.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\movieSearch.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Payment\Index.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Payment\succeeded.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\AdminProducers.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\AllProducers.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\DetailsUser.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\InsertProducer.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\ProducersDetailsAdmin.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\UpdateProducer.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_AddCinema.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_Grid.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_List.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_LoginLayout.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_UserLayout.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\UpdateProfile\UpdateAdminForm.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\UpdateProfile\UpdateUserForm.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.RazorTargetAssemblyInfo.cache
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.RazorTargetAssemblyInfo.cs
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.Views.pdb
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.csproj.CopyComplete
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\ref\MovieTickets.dll
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.pdb
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\MovieTickets.genruntimeconfig.cache
+D:\MVCProject\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\IdentityModel.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\bin\Debug\net5.0\IdentityModel.dll
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\UpdateProfile\UpdateAdminForm.cshtml.g.cs
+C:\ITI Project\Movie_Ticket_Reservation\MovieTickets\obj\Debug\net5.0\Razor\Views\UpdateProfile\UpdateUserForm.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\appsettings.Development.json
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\appsettings.json
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\MovieTickets.exe
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\MovieTickets.deps.json
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\MovieTickets.runtimeconfig.json
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\MovieTickets.runtimeconfig.dev.json
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\MovieTickets.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\MovieTickets.pdb
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\MovieTickets.Views.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\MovieTickets.Views.pdb
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Castle.Core.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Humanizer.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\IdentityModel.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\Stripe.net.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\MovieTickets.csproj.AssemblyReference.cache
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\MovieTickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\MovieTickets.AssemblyInfoInputs.cache
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\MovieTickets.AssemblyInfo.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\MovieTickets.csproj.CoreCompileInputs.cache
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\MovieTickets.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\MovieTickets.RazorAssemblyInfo.cache
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\MovieTickets.RazorAssemblyInfo.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\scopedcss\bundle\MovieTickets.styles.css
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\staticwebassets\MovieTickets.StaticWebAssets.Manifest.cache
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\staticwebassets\MovieTickets.StaticWebAssets.Pack.cache
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\staticwebassets\msbuild.MovieTickets.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\staticwebassets\msbuild.build.MovieTickets.props
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.MovieTickets.props
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.MovieTickets.props
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\MovieTickets.TagHelpers.input.cache
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\MovieTickets.TagHelpers.output.cache
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\MovieTickets.RazorCoreGenerate.cache
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Account\SignUp.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Account\SignUpCompleted.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\ActorsDetailsAdmin.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\AdminActors.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\AllActors.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\DetailsUser.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\Index.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\InsertActor.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Actor\UpdateActor.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\AdminCategories.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\CategoriesDetailsAdmin.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\DetailsUser.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\InsertCategoryForm.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Category\UpdateCategoryForm.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\AdminCinemas.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\AllCinemas.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\CinemaDetailsAdmin.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\CinemaUpdateForm.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\CinemaUserDetails.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Cinema\Cinema_Insert_Form.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Home\Admin.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\AdminMovie.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\Create.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\DetailsUser.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\Edit.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\IndexUser.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\MovieDetailsAdmain.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Movie\movieSearch.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Payment\Index.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Payment\succeeded.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\AdminProducers.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\AllProducers.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\DetailsUser.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\InsertProducer.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\ProducersDetailsAdmin.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Producer\UpdateProducer.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_AddCinema.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_Grid.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_List.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_LoginLayout.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_UserLayout.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\UpdateProfile\UpdateAdminForm.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\UpdateProfile\UpdateUserForm.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\MovieTickets.RazorTargetAssemblyInfo.cache
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\MovieTickets.RazorTargetAssemblyInfo.cs
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\MovieTickets.Views.pdb
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\MovieTickets.csproj.CopyComplete
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\MovieTickets.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\refint\MovieTickets.dll
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\MovieTickets.pdb
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\MovieTickets.genruntimeconfig.cache
+D:\ASP.Net Projects\Movie_Ticket_Reservation-main\MovieTickets\obj\Debug\net5.0\ref\MovieTickets.dll

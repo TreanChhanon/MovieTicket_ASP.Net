@@ -1,0 +1,99 @@
+﻿@model User
+
+@{
+    Layout = "_UserLayout";
+}
+
+<div class="slider movie-items">
+	<div class="container">
+	<div class="container">
+		<div class="row ipad-width">
+<div class="col-md-12">
+
+
+    <div class="col-md-12 col-sm-12 col-xs-12">
+				<div class="form-style-1 user-pro" action="#">
+					<form asp-action="UpdateUser" asp-controller="UpdateProfile"  class="user" enctype= "multipart/form-data">
+						<h4>@Model.FullName Profile</h4>
+
+   <div class="picture-container" style="margin-right:50%">
+      <div class="picture">
+            @*image proplem ===================================================================*@
+                    @if(Model.Image == null)
+                    {
+                        <img src = "/images/placeholder.jfif" class="picture-src" style="height: 100%;" id="ProfileImg">
+                        
+                    }
+            @if(Model.Image != null){
+                var base64 = Convert.ToBase64String(Model.Image);
+                var imgSrc = String.Format("data:image/gif;base64,{0}", base64);
+
+          <img src = "@imgSrc" class="picture-src" style="height: 100%;" id="ProfileImg">
+            }
+          <input asp-for="Image" accept="image/*" type="file" class="picfile" id="fileInput" onchange="loadFile(event)">
+                     @*<input type="file" asp-for="Image" id="Image" onchange="readURL(this);" />*@
+          @*image proplem =========================================================================*@
+
+       </div>
+       </div>
+						<div class="row">
+							<div class="col-md-6 form-it">
+								<label asp-for="FullName">Username</label>
+								<input asp-for="FullName">
+							</div>
+							<div class="col-md-6 form-it">
+								<label asp-for="Adress">Address</label>
+								<input asp-for="Adress">
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-2">
+								<input class="submit" type="submit" value="save">
+							</div>
+						</div>	
+					</form>
+					
+				</div>
+			</div>
+			</div>
+			</div>
+			</div>
+			</div>
+			</div>
+
+<script>
+    var loadFile = function (event) {
+  var image = document.getElementById("ProfileImg");
+  image.src = URL.createObjectURL(event.target.files[0]);
+};
+</script>
+<style>
+.picture-container{
+    margin:auto;
+    width:100px;
+    height:100px;
+    border-radius: 50%;
+}
+.picture{
+    position:relative;
+    width:100px;
+    height:100px;
+    border-radius: 50%;
+}
+.picture-src{
+    position:absolute;
+    width: inherit;
+    height:inherit;
+    border-radius:inherit;
+}
+.picture input[type="file"] {
+    cursor: pointer;
+    display: block;
+    height: 100%;
+    left: 0;
+    opacity: 0 !important;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+</style>

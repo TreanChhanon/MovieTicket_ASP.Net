@@ -1,0 +1,30 @@
+﻿
+
+
+
+@model Category
+
+@{
+    Layout = "_AdminLayout";
+}
+<div class="card mb-3" style="max-width: 540px;">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+     @if (Model.Image != null)
+                        {
+                            var base64 = Convert.ToBase64String(@Model.Image);
+                            var imgSrc = String.Format("data:image/gif;base64,{0}", base64);
+                            <img src="@imgSrc" style="border-radius:100%; ">
+                        }
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+          <h3 class="card-title">@Model.Id</h3>
+        <h5 class="card-title">@Model.Name</h5>
+        <p class="card-text">@Model.Description</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+

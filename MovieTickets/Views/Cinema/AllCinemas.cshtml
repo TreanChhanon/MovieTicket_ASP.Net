@@ -1,0 +1,61 @@
+﻿@model List<Cinema>
+
+
+@*User Section start----------------------------------------*@
+@{
+    Layout = "_UserLayout";
+}
+<div class="slider movie-items">
+	<div class="container">
+	<div class="container">
+		<div class="row ipad-width">
+<div class="col-md-12">
+				
+				<div class="title-hd">
+					<h2>OUR CINEMAS</h2>
+				</div>
+				<div class="tabs">
+					
+				    <div class="tab-content">
+				        
+				        <div id="tab22" class="tab active">
+				           <div class="row">
+				            	<div class="slick-multiItem h-100">
+									@foreach(var i in Model)
+										{
+											<div class="slide-it">
+	
+												<div class="movie-item">
+
+													<div class="mv-img">
+														@if (i.Image != null)
+														{
+															var base64 = Convert.ToBase64String(@i.Image);
+															var imgSrc = String.Format("data:image/gif;base64,{0}", base64);
+
+															<img src="@imgSrc" alt="" style="width:inherit; height:50vh">
+														}
+													</div>
+					            			<div class="hvr-inner">
+					            				<a  asp-action="Cinema" asp-route-id=@i.Id asp-controller="Cinema"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            			</div>
+					            			<div class="title-in">
+					            				<h6 class="text-light" style="color:white;">@i.Name</h6>
+					            			
+					            			</div>
+					            		</div>
+				            			
+				            		</div>
+										}
+				            	</div>
+				            </div>
+			       	 	</div>
+				    </div>
+				</div>
+			</div>
+			</div>
+			</div>
+			</div>
+			</div>
+@*User Section end---------------------------------------------------------*@
+

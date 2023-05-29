@@ -1,0 +1,64 @@
+﻿@model List<Category>
+
+@{
+    Layout = "_AdminLayout";
+}
+
+
+<div class="search-box pull-left mb-5">
+                            <form asp-action="AdminCategories" asp-controller="Category" method = "get">
+                                <input type="search" value=@ViewData["searching"] name="Keyword" placeholder="Search for Categories..." >
+                                <i class="ti-search"></i>
+                                <input type="submit" style="display: none" />
+                            </form>
+                        </div>
+
+<div class="container mt-5">
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">Id</th>
+      <th scope="col">Name</th>
+      <th scope="col">Image</th>
+      <th scope="col">Description</th>
+      <th scope="col">Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+	  @foreach(var i in Model){
+    <tr>
+      <th scope="row">@i.Id</th>
+      <td>@i.Name</td>
+                  
+
+
+
+       <td>  @if (i.Image != null)
+                        {
+                            var base64 = Convert.ToBase64String(@i.Image);
+                            var imgSrc = String.Format("data:image/gif;base64,{0}", base64);
+                            <img src="@imgSrc" style="border-radius:100%; width:70px; height:50px">
+                        }
+                    </td>
+
+      <td>@i.Description</td>
+      <td> <a asp-action="UpdateCategoryForm" asp-controller="Category" asp-route-id = "@i.Id"> <i class="fa fa-edit"></i></a> <a asp-action="Delete" asp-controller="Category" asp-route-id = "@i.Id"> <i class="ti-trash"></i></a>
+          <a asp-action="CategoriesDetailsAdmin" asp-controller="Category" asp-route-id="@i.Id"><i class="fa fa-arrow-circle-right"></i></a>
+          </td>
+      <td></td>
+
+    </tr>
+	  }
+  </tbody>
+</table>
+    @if (Model.Count == 0)
+    {
+        <img src="/images/error/notfound.png" style="height:50vh; text-align:center; margin-left:30%;" />
+        <a asp-action="InsertCategoryForm" asp-controller="category" class="btn btn-warning font-weight-bold" style=" color: white; width:70px; height:70px; border-radius:50%; text-align:center; padding: 2.5% 0;"> Add <i class="fa fa-plus-circle"></i></a>
+    }
+    @if(Model.Count != 0)
+    {
+        <a asp-action="InsertCategoryForm" asp-controller="category" class="btn btn-info"> Add New<i class="fa fa-plus-circle"></i></a>
+        
+    }
+</div>
